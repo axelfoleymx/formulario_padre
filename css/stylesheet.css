@@ -5,9 +5,13 @@ body {
 form{ width: 50%;
 	margin-left: 25%
 }
+input{ width: 100%
+}
+textarea{ width: 100%
+}
 
 h1 {
-    color: orange;
+    color: #42AF4E;
     text-align: center;
 }
 
