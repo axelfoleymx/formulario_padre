@@ -1,5 +1,9 @@
 body {
-    background-color: #d0e4fe;
+    background-color:#00BFFF;
+}
+
+form{ width: 50%;
+	margin-left: 25%
 }
 
 h1 {
