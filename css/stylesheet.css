@@ -3,9 +3,14 @@ body {
 }
 #cantidad {
     width: 10%;
-
+}
+h2{
+    color: white ;
+    font-family: "Garamond";
+    margin-left: 70%
 
 }
+
 sans{
     color: white;
     width: 90%;
